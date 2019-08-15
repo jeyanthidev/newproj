@@ -1,0 +1,11 @@
+{
+  "id": "1",
+  "name": "jay",
+  "hobbies": [
+    "reading",
+    "music",
+    "horse riding"
+  ],
+  "city": "chicago",
+  "email": "jey@gmail.com"
+}

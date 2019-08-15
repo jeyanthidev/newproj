@@ -1,0 +1,22 @@
+<students>
+    <student>
+        <id></id>
+        <name>jey</name>
+        <age>33</age>
+    </student>
+    
+    <student>
+        <id></id>
+        <name>raj</name>
+        <age>36</age>
+        <city>chicago</city>
+    </student>
+
+    <student>
+        <id></id>
+        <name>abi</name>
+        <age>17</age>
+        <city>georgia</city>
+    </student>
+
+</students>
